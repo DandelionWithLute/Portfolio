@@ -19,3 +19,5 @@
    - [Build a Weather App in VueJS | Vue Beginner Tutorial](https://github.com/DandelionWithLute/My-Code/blob/main/Vue%20series/WeatherApp/2.vue)[🔗 教学](https://youtu.be/JLc-hWsPTUY)
    - [尝试使用 React](https://github.com/DandelionWithLute/My-Code/blob/main/myapp/src/App.js) 由于 React 社区资源丰富，而且更国际化一些，由此选为我的技术栈
    - [《Python 基础教程》《流畅的 Python》《Python 网络爬虫》](https://github.com/DandelionWithLute/My-Code/tree/main/Python3)几乎所有代码我都敲来运行了
+6. 现场编程写一个 ai chatbot [🔗 其一](https://github.com/DandelionWithLute/chatbotsync) [🔗 其二](https://github.com/DandelionWithLute/chatgptredev)
+7.
