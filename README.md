@@ -44,6 +44,24 @@
 13. [Vue.js 官网所有教程](https://github.com/DandelionWithLute/Vuejs-Tutorials-From-Official-Website)
 14. [🔏 被拉上参加心理竞赛的项目 | 后端是 Supabase BAAS Next.js Subscription Payments Starter](https://github.com/DandelionWithLute/Psychology-Team-Project)
 15. [Python 爬虫不间断抓取可爱小猫表情包](https://github.com/DandelionWithLute/WebScrapImage)
-16. 大项目 | 网站构造器 Plura<br />[SaaS Website Builder, Project Management And Dashboard: Nextjs14, Bun, Stripe Connect, Prisma, MySQL](https://github.com/DandelionWithLute/website-builder)[🔗 教学](https://www.youtube.com/watch?v=6omuUOZcWL0)
+16. ⭐ 大项目 | 网站构造器 Plura<br />[SaaS Website Builder, Project Management And Dashboard: Nextjs14, Bun, Stripe Connect, Prisma, MySQL](https://github.com/DandelionWithLute/website-builder)[🔗 教学](https://www.youtube.com/watch?v=6omuUOZcWL0)
 17. [JWT 和异步验证登录](https://github.com/DandelionWithLute/authentication-with-axios-and-jwt)
-18. 
+18. [Animated Portfolio Website with React & Framer Motion | React Project for Beginners](https://github.com/DandelionWithLute/framermotion) [🔗 教学](https://www.youtube.com/watch?v=CHGHuF24Cjw)
+    - 只做到了左边很漂亮的 burger menu 菜单栏
+19. [React Chat App Full Tutorial 2024 | Realtime Chat Application Project with Firebase](https://github.com/DandelionWithLute/Realtime-ChatApp-Design) [🔗 教学](https://www.youtube.com/watch?v=domt_Sx-wTY)
+    - 国内不是特别好连 firebase...只做了前端，而且完全是自己写的代码，看人家做出来的网页自己复构
+20. [Github: 学习 Socket.io](https://github.com/DandelionWithLute/learn-websocket-with-socketio-from-a-easy-beginning)<br />[🔗 教学 HTTP Module in Node.js](https://www.youtube.com/watch?v=VLXAzzRjQws)<br />[🔗 教学 NodeJS: TCP Networking with Net Module](https://www.youtube.com/watch?v=LPDJvR5guGA)<br />[🔗 教学 官方演示 App](https://socket.io/get-started/chat)
+21. [⭐The Modern JavaScript Tutorial](https://github.com/DandelionWithLute/The-Modern-JavaScript-Tutorial) [🔗 教学](https://javascript.info/)
+    - 我整个大二下学期几乎把主章节里的教学代码都手写运行了一遍，也尝试去理解了
+22. [Build and Deploy a React Native App | 2023 React Native Course Tutorial for Beginners](https://github.com/DandelionWithLute/React-Native-with-Expo) [🔗 后端](https://github.com/DandelionWithLute/backend-for-expo-20240817) [🔗 教学](https://www.youtube.com/watch?v=mJ3bGvy0WAY)<br />React Native 小程序没做完，抓取数据后不知道咋刷新，后来没管了
+23. [学习使用 Django](https://github.com/DandelionWithLute/Django)
+24. [🔏 做了一个个人作品集页面](https://github.com/DandelionWithLute/Personal-Portfolio-Page)
+    - 但是没有填充内容
+    - 同时我发现我缺少对 UI 的基本设计能力，因此大三上学期补充了大量设计相关的知识
+
+## 大三
+
+> 整个学期受到委托在做一个大型 AI 项目
+
+1. 🔏 整个上学期都在做一个项目，独立开发
+   - 涉及文生文，文生图，完整的 CRUD，API，数据库，账户及其他状态管理系统，文件系统，stream 流，一点点逆向开发
